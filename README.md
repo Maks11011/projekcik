@@ -1,1 +1,1 @@
-najlepiej wrzucić programik do folderu bo sie tworzy plik przy uruchomieniu :)
+najlepiej wrzucić programik do folderu bo sie tworzy plik przy jego uruchomieniu :)
