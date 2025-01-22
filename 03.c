@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdbool.h>
-#define ll long long
 #define and &&
 #define or ||
 
@@ -25,7 +24,7 @@ void solve(){
                 break;
             }
             if(s[j] == '('){
-                /*// odkomentowaæ dla part2
+                /*// odkomentowaÃ¦ dla part2
                 if(j >= 5){
                     if(s[j-5] == 'd' and s[j-4] == 'o' and s[j-3] == 'n' and s[j-2] == '\'' and s[j-1] == 't' and s[j+1] == ')'){
                         eneble = false;
