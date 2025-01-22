@@ -8,7 +8,6 @@ const int n_max = 2 * 1e5;
 void solve(){
     FILE * input = fopen("03.in", "r");
 
-    int n = 6;
     char s[100000];
     int ans = 0;
     bool eneble = true;
@@ -95,7 +94,6 @@ void solve(){
 int main(){
 
 
-    int t = 1;
     solve();
     return 0;
 }
